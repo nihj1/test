@@ -1,2 +1,2 @@
 cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
-cifar-10-python.tar.gz[[:space:]]README.md filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
